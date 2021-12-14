@@ -9,6 +9,7 @@ awscli = "*"
 ipykernel = "*"
 boto3 = "*"
 pyarrow = "*"
+autopep8 = "*"
 
 [dev-packages]
 
